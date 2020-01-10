@@ -1,0 +1,12 @@
+{
+  "name": "udemy-indecission-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dansieg422000/udemy-indecission-app.git",
+  "author": "Ronald Olay",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
